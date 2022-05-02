@@ -1,0 +1,9 @@
+Name,Value
+pop,3
+seg,0.085
+slope,0.005
+dep_min,0.5
+dep_max,3
+wide,0.5
+s_ls,30
+f_ls,30
